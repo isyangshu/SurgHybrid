@@ -6,4 +6,4 @@ Official implementation of:
 
 🚧 This repository is under construction.
 
-The source code, pretrained models, and documentation will be released upon acceptance of the paper.
+The source code and documentation will be released upon acceptance of the paper.
